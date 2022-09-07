@@ -1,2 +1,2 @@
 #!/bin/bash
-paste --delimiter=+ - - | cut --delimiter=+ -fields=1
+paste --delimiter=+ - - | cut --delimiter=+ --fields=1
